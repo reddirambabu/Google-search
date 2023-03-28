@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.arrow-image {
+  width: 20px;
+}
+.heading {
+  font-size: 12px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
